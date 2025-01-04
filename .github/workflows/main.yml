@@ -1,4 +1,1 @@
-
-pip install telebot pymongo aiohttp
-chmod +x *
-python3 sharp.py
+[![.github/workflows/main.yml](https://github.com/saxhi222/Ddos/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/saxhi222/Ddos/actions/workflows/main.yml)
