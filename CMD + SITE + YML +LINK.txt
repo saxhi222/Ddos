@@ -1,0 +1,19 @@
+COMMANDS :
+
+pip install telebot pymongo aiohttp
+chmod +x *
+python3 sharp.py
+
+----------------------------------------------------------------------
+SITE LINK : https://app.buddy.works/login
+----------------------------------------------------------------------
+JOIN NOW 👇👇
+
+channel : @DarkDdosHack
+
+group : @DdosWalaGroup
+----------------------------------------------------------------------
+SHARE WITH CREDIT ^
+
+
+THANK U ALL DONE 👍✅
